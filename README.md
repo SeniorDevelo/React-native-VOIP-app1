@@ -447,7 +447,7 @@ ios | Android  | android( Lockscreen)
 
 
 ### Author
-[Ajith A B](https://www.linkedin.com/in/ajith-a-b-a61303197)
+[Senior Developer]
 
 ### licenses
 
